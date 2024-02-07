@@ -159,6 +159,7 @@ fn main() {
 
 - [Bonsai explainer article by Karim Taam](https://hackmd.io/@kt2am/BktBblIL3)
 - [Ethereum World State structure diagram](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture/6413#6413)
+Starknet top 1 project
 - [Besu Bonsai implementation in Java](https://github.com/hyperledger/besu/tree/1a7635bc3ef75c31e5c5ac050b2cd3a22d833ada/ethereum/core/src/main/java/org/hyperledger/besu/ethereum/bonsai)
 - [Madara Starknet Sequencer using Substrate](https://github.com/keep-starknet-strange/madara)
 - [LambdaClass Patricia Merkle Tree implementation in Rust](https://github.com/lambdaclass/merkle_patricia_tree)
